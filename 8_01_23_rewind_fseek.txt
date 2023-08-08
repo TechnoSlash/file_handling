@@ -1,0 +1,6 @@
+fseek(fptr, offset, mode);
+feof() function  // end of file  
+
+if(ferror(fptr)) {
+  // an error has occured
+}
